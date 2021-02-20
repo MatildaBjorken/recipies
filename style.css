@@ -6,7 +6,7 @@
 }
 :root{
     --tenne-tawny: #585858;
-    --tenne-tawny-dark: #c3c3c3;
+    --tenne-tawny-dark: #f3f06b;
 }
 body{
     font-weight: 300;
@@ -194,7 +194,7 @@ body{
     padding-top: 1em;
 }
 .recipe-category{
-    background: #fff;
+    background: #f3f06b;
     font-weight: 600;
     color: var(--tenne-tawny);
     display: inline-block;
